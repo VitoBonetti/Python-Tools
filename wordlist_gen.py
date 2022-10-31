@@ -76,3 +76,6 @@ print(f"\n{GREEN}FINAL RESULT:{RESET}")
 print(f"{BLUE_LIGHT}Name File:{RESET} {ITALIC}{flags.output}{NORMAL}")
 print(f"{BLUE_LIGHT}Size File:{RESET} {ITALIC}{file_size}{NORMAL} bytes")
 print(f"{BLUE_LIGHT}Words:{RESET} {ITALIC}{total_word}{NORMAL}\n")
+
+
+
